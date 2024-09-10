@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "random-useragent": "^0.5.0",
+    "set-cookie-parser": "^2.7.0",
+    "user-agents": "^1.1.320"
+  }
+}
